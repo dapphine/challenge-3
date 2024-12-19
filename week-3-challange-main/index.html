@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Flatdango Theater</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Flatdango</h1>
+  </header>
+
+  <div id="container">
+    <aside>
+      <h2>Movies Available</h2>
+      <ul id="films"></ul>
+    </aside>
+
+    <main>
+      <section id="movie-details">
+        <img id="poster" src="https://via.placeholder.com/300x400?text=Select+a+Movie" alt="Movie Poster">
+        <div>
+          <h1 id="title">Buy This Ticket For This Movie </h1>
+          <p><strong>Watch-hours:</strong> <span id="runtime">N/A</span> minutes</p>
+          <p><strong>Date Release:</strong> <span id="showtime">N/A</span></p>
+          <p><strong>Tickets Available For Sale:</strong> <span id="available-tickets">N/A</span></p>
+          <button id="buy-ticket" disabled>Buy Ticket</button>
+        </div>
+      <section id="highest-tickets">
+        <h2>Best Movies Now at the Theater</h2>
+        <ul id="top-movies"></ul>
+      </section>
+    </main>
+  </div>
+
+  <footer>
+    <p>Flatdango: Movies are covered by Copy Rights &copy; 2024</p>
+  </footer>
+
+  <script src="index.js"></script>
+</body>
+</html>

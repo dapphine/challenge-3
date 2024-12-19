@@ -1,0 +1,134 @@
+{
+  "films": [
+    {
+      "id": "1",
+      "title": "The Shawshank Redemption",
+      "runtime": 142,
+      "capacity": 50,
+      "showtime": "05:00PM",
+      "tickets_sold": 50,
+      "description": "Two imprisoned men bond over several years, finding solace and eventual redemption through acts of common decency.",
+      "poster": "https://m.media-amazon.com/images/I/51NiGlapXlL._AC_.jpg"
+    },
+    {
+      "id": "2",
+      "title": "The Matrix",
+      "runtime": 136,
+      "capacity": 45,
+      "showtime": "06:00PM",
+      "tickets_sold": 41,
+      "description": "A computer hacker learns about the true nature of reality and his role in the war against its controllers.",
+      "poster": "https://m.media-amazon.com/images/I/51EG732BV3L.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Avengers: Endgame",
+      "runtime": 181,
+      "capacity": 70,
+      "showtime": "09:00PM",
+      "tickets_sold": 66,
+      "description": "After the devastating events of Infinity War, the Avengers assemble to undo the damage caused by Thanos.",
+      "poster": "https://m.media-amazon.com/images/I/81ExhpBEbHL._AC_SL1500_.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Interstellar",
+      "runtime": 169,
+      "capacity": 50,
+      "showtime": "07:30PM",
+      "tickets_sold": 40,
+      "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+      "poster": "https://m.media-amazon.com/images/I/91kFYg4fX3L._AC_SY679_.jpg"
+    },
+    {
+      "id": "5",
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "runtime": 178,
+      "capacity": 60,
+      "showtime": "06:00PM",
+      "tickets_sold": 50,
+      "description": "A meek Hobbit and eight companions set out on a journey to destroy a powerful ring and save Middle-earth.",
+      "poster": "https://m.media-amazon.com/images/I/51Qvs9i5a%2BL._AC_.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Frozen",
+      "runtime": 102,
+      "capacity": 50,
+      "showtime": "03:00PM",
+      "tickets_sold": 40,
+      "description": "When their kingdom becomes trapped in perpetual winter, two sisters team up to save it.",
+      "poster": "https://m.media-amazon.com/images/I/71oXpSYF6eL.jpg"
+    },
+    {
+      "id": "7",
+      "title": "Guardians of the Galaxy",
+      "runtime": 121,
+      "capacity": 50,
+      "showtime": "06:00PM",
+      "tickets_sold": 40,
+      "description": "A group of intergalactic criminals must band together to stop a fanatical warrior.",
+      "poster": "https://m.media-amazon.com/images/I/71niXI3lxlL._AC_SY679_.jpg"
+    },
+    {
+      "id": "8",
+      "title": "Shazam!",
+      "runtime": 132,
+      "capacity": 45,
+      "showtime": "04:00PM",
+      "tickets_sold": 40,
+      "description": "A boy is given the ability to become an adult superhero in times of need.",
+      "poster": "https://c8.alamy.com/comp/2B0MDFJ/shazam!-2019-directed-by-david-f-sandberg-and-starring-zachary-levi-mark-strong-asher-angel-and-jack-dylan-grazer-billy-batson-a-troubled-child-in-care-is-selected-to-be-a-champion-and-given-superpowers-by-the-wizard-shazam-whenever-he-says-his-name-2B0MDFJ.jpg"
+    },
+    {
+      "id": "9",
+      "title": "WALL-E",
+      "runtime": 98,
+      "capacity": 40,
+      "showtime": "05:30PM",
+      "tickets_sold": 35,
+      "description": "In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind.",
+      "poster": "https://m.media-amazon.com/images/I/51v5ZpFyaFL._AC_.jpg"
+    },
+    {
+      "id": "10",
+      "title": "The Giant Gila Monster",
+      "runtime": 108,
+      "capacity": 30,
+      "showtime": "04:00PM",
+      "tickets_sold": 27,
+      "description": "A giant lizard terrorizes a rural Texas community and a heroic teenager attempts to destroy the creature.",
+      "poster": "https://www.gstatic.com/tv/thumb/v22vodart/2157/p2157_v_v8_ab.jpg"
+    },
+    {
+      "id": "11",
+      "title": "Manos: The Hands Of Fate",
+      "runtime": 118,
+      "capacity": 50,
+      "showtime": "06:45PM",
+      "tickets_sold": 44,
+      "description": "A family gets lost on the road and stumbles upon a hidden, underground, devil-worshiping cult led by the fearsome Master and his servant Torgo.",
+      "poster": "https://www.gstatic.com/tv/thumb/v22vodart/47781/p47781_v_v8_ac.jpg"
+    },
+    {
+      "id": "12",
+      "title": "Doctor Strange",
+      "runtime": 115,
+      "capacity": 60,
+      "showtime": "09:00PM",
+      "tickets_sold": 55,
+      "description": "A neurosurgeon embarks on a journey of healing only to be drawn into the world of the mystic arts.",
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXGlzYaRLpXpuYH0_D6Z244WxF6KjNk-8mUw&s"
+    },
+    {
+      "id": "13",
+      "title": "Inception",
+      "runtime": 148,
+      "capacity": 200,
+      "showtime": "7:00 PM",
+      "tickets_sold": 60,
+      "description": "Dom Cobb (Leonardo DiCaprio) is a thief with the rare ability to enter people's dreams and steal their secrets from their subconscious.",
+      "poster": "https://image.tmdb.org/t/p/original/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg"
+    }
+  ]
+}
